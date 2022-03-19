@@ -16,4 +16,4 @@ This was the third challenge in our bootcamp that we had to complete. At this po
 https://mmlawton15.github.io/challenge-three-toucan/
 
 ## What does this project look like?
-![image](./assets/passwordGeneratorScreenshot.jpg)
+![image](assets/PWGenerator.jpg)
