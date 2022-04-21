@@ -9,6 +9,13 @@ To use, simply click the button on the screen. Enter your desired character leng
 -For example, if you want Uppercase letters, you will press OK when prompted. If you don't want Uppercase letters, press CANCEL when prompted.
 After all of the prompts have been answered, a password with the characteristics the user chose will appear on the screen.
 
+## Stack?
+Frontend:
+- HTML
+- CSS
+Backend:
+- Javascript
+
 ## Why did I make this project?
 This was the third challenge in our bootcamp that we had to complete. At this point in the bootcamp, this had been the most difficult project but I had fun figuring out how to make it work. Even if that meant starting from scratch a few tiems.
 
